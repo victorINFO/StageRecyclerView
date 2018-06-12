@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/victorINFO/RecyclerView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sarahDalSanto/ICListSwipe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\yye5891\AndroidStudioProjects\SwipeDelete" />
+    <option name="cloneParentDir" value="C:\Users\yye5891\AndroidStudioProjects\Swipe" />
   </component>
 </application>
